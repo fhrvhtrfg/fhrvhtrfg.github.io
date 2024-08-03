@@ -1,3 +1,3 @@
-#fhrvhtrfg.github.io
+#akas.github.io
 
 My Personal Blog via GitHub
